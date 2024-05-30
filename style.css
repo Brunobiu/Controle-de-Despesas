@@ -110,6 +110,8 @@ input[type='number'] {
   list-style-type: none;
   padding: 0;
   margin-bottom: 40px;
+  justify-content: center;
+  padding-left: 10px;
 }
 
 .transactions li {
@@ -121,6 +123,7 @@ input[type='number'] {
   position: relative;
   padding: 10px;
   margin: 10px 0;
+  
 }
 
 .transactions li.plus {
